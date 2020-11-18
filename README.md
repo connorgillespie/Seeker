@@ -24,9 +24,9 @@ For example, if you were wishing to search for a file within the C directory, yo
 > C:/
 
 Many common paths include the following.
-> - C:/
-> - C:/Users
-> - C:/Users/johndoe/Desktop
+- C:/
+- C:/Users
+- C:/Users/johndoe/Desktop
 
 *Note the script will automatically search all subdirectories within the inputted path.*
 
