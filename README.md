@@ -27,5 +27,7 @@ For example, if you were wishing to search for a file within the C directory, yo
 *Note the script will automatically search all subdirectories within the inputted path.*
 
 ## Upcoming
+Few upcoming updates regarding Seeker.
+
 - [ ] Add Linux Support
 - [ ] Add Wildcard Directories
