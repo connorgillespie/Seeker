@@ -16,3 +16,12 @@ The ASCII character * can be replaced within the input to symbolize a wildcard. 
 
 For example, if you are trying to display all .txt files within a directory, you would enter the following.
 > *.txt
+
+### Path
+The path input is used to specify a directory to search. 
+
+For example, if you were wishing to search for a file within the C directory, you would enter the following.
+> C:/
+
+*Note the script will automatically search all subdirectories within the inputted path.*
+
