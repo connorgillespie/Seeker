@@ -3,7 +3,7 @@
 Seeker was designed to help users find files with ease. After constantly losing files, I finally decided to create a simple, efficent script to help releviate the issue.
 
 ## Installation
-All packages used by Seeker are installed by default with Python 3. You can download the latest version of python 3 [here](https://www.python.org/downloads/).
+All packages used by Seeker are installed by default with Python 3. You can download the latest version of Python 3 [here](https://www.python.org/downloads/).
 ## Inputs
 ### File
 The file input is used to find any file by an extension or filename. 
