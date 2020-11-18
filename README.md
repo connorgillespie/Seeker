@@ -25,4 +25,7 @@ The path input is used to specify a directory to search.
 For example, if you were wishing to search for a file within the C directory, you would enter the following.
 > C:/
 
+Additionally, if you were wishing to search the Linux home directory, you would enter the following.
+> /home
+
 *Note the script will automatically search all subdirectories within the inputted path.*
