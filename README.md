@@ -3,8 +3,7 @@
 Seeker was designed to help users find files with ease. After constantly losing files, I finally decided to create a simple, efficent script to help releviate the issue.
 
 ## Installation
-To install the necessary packages for the script, please run the following command inside the directory containing the script's files.
-> pip install -r requirements.txt
+All packages used by Seeker are installed by default within Python 3. 
 
 ## Inputs
 ### File
