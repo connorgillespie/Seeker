@@ -2,8 +2,9 @@
 ## About
 Seeker was designed to help users find files with ease. After constantly losing files, I finally decided to create a simple, efficent script to help releviate the issue.
 
-## Requirements
-This script works out of the box on any system with Python 3 installed.
+## Installation
+To install the necessary packages for the script, please run the following command inside the directory containing the script's files.
+> pip install -r requirements.txt
 
 ## Inputs
 ### File
@@ -22,11 +23,6 @@ The path input is used to specify a directory to search.
 
 For example, if you were wishing to search for a file within the C directory, you would enter the following.
 > C:/
-
-A few common paths include the following.
-- C:/
-- C:/Users
-- C:/Users/johndoe/Desktop
 
 *Note the script will automatically search all subdirectories within the inputted path.*
 
