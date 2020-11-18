@@ -23,5 +23,10 @@ The path input is used to specify a directory to search.
 For example, if you were wishing to search for a file within the C directory, you would enter the following.
 > C:/
 
+Many common paths include the following.
+> C:/
+> C:/Users
+> C:/Users/johndoe/Desktop
+
 *Note the script will automatically search all subdirectories within the inputted path.*
 
