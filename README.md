@@ -2,6 +2,9 @@
 ## About
 Seeker was designed to help users find files with ease. After constantly losing files, I finally decided to create a simple, efficent script to help releviate the issue.
 
+## Operating Systems
+Seeker currently strictly supports both Linux and Windows based operating systems. Seeker may possibly work on other operating systems, but it has not been verified.
+
 ## Installation
 All packages used by Seeker are installed by default with Python 3. You can download the latest version of Python 3 [here](https://www.python.org/downloads/).
 ## Inputs
@@ -23,9 +26,3 @@ For example, if you were wishing to search for a file within the C directory, yo
 > C:/
 
 *Note the script will automatically search all subdirectories within the inputted path.*
-
-## Upcoming
-Few upcoming updates regarding Seeker.
-
-- [ ] Add Linux Support
-- [ ] Add Wildcard Directories
