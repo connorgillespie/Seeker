@@ -11,7 +11,7 @@ Unzip the files using 7zip or Winrar.
 Open the Seeker-main folder and double click the seeker.py file. 
 
 ### Linux
-Press ALT+T to open a new terminal. 
+Press CTRL+ALT+T to open a new terminal. 
 
 Execute the following command to download the zip.
 > wget https://github.com/connorgillespie/Seeker/archive/main.zip
