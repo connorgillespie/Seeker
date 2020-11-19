@@ -4,20 +4,26 @@ Seeker was designed to help users find files with ease. After constantly losing 
 
 ## Installation
 ### Windows
-1. Download the zip from github [https://github.com/connorgillespie/Seeker/archive/main.zip](here).
-2. Unzip the files using 7zip or Winrar.
-3. Open the Seeker-main folder and double click the seeker.py file. 
+Download the zip from github [https://github.com/connorgillespie/Seeker/archive/main.zip](here).
+
+Unzip the files using 7zip or Winrar.
+
+Open the Seeker-main folder and double click the seeker.py file. 
 
 ### Linux
-1. Press ALT+T to open a new terminal. 
-2. Execute the following command to download the zip.
-  > wget https://github.com/connorgillespie/Seeker/archive/main.zip
-3. Execute the following command to unzip the files.
-  > unzip main.zip
-4. Execute the following command to remove the zip.
-  > rm main.zip
-5. Execute the following command to start the script.
-  >  python3 Seeker-main/seeker.py
+Press ALT+T to open a new terminal. 
+
+Execute the following command to download the zip.
+> wget https://github.com/connorgillespie/Seeker/archive/main.zip
+
+Execute the following command to unzip the files.
+> unzip main.zip
+
+Execute the following command to remove the zip.
+> rm main.zip
+
+Execute the following command to start the script.
+>  python3 Seeker-main/seeker.py
 
 ## Inputs
 ### File
