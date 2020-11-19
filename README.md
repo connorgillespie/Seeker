@@ -2,13 +2,7 @@
 ## About
 Seeker was designed to help users find files with ease. After constantly losing files, I finally decided to create a simple, efficent script to help releviate the issue.
 
-## Operating Systems
-Seeker currently strictly supports both Linux and Windows based operating systems. Seeker may possibly work on other operating systems, but it has not been verified.
-
 ## Installation
-### Packages
-All packages used by Seeker are installed by default with Python 3.
-
 ### Windows
 1. Download the zip from github [https://github.com/connorgillespie/Seeker/archive/main.zip](here).
 2. Unzip the files using 7zip or Winrar.
@@ -17,13 +11,13 @@ All packages used by Seeker are installed by default with Python 3.
 ### Linux
 1. Press ALT+T to open a new terminal. 
 2. Execute the following command to download the zip.
-> wget https://github.com/connorgillespie/Seeker/archive/main.zip
+  > wget https://github.com/connorgillespie/Seeker/archive/main.zip
 3. Execute the following command to unzip the files.
-> unzip main.zip
+  > unzip main.zip
 4. Execute the following command to remove the zip.
-> rm main.zip
+  > rm main.zip
 5. Execute the following command to start the script.
->  python3 Seeker-main/seeker.py
+  >  python3 Seeker-main/seeker.py
 
 ## Inputs
 ### File
