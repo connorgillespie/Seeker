@@ -7,7 +7,7 @@ info = """
                                 
   Author: Connor Gillespie
   Description: An advanced but simple file seeker.
-  Documentation: github.com/
+  Documentation: https://github.com/connorgillespie/Seeker
   License: MIT
   
 """
